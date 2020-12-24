@@ -1,10 +1,13 @@
-### Hi there 👋, Omar Chouman
+### Hi there 👋, I'm Omar 
 #### Full-Stack Web Developer
 ![Full-Stack Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQF2KTtykMuUrQ/profile-displaybackgroundimage-shrink_200_800/0/1608813408126?e=1614211200&v=beta&t=dFlu-0f531W8dTHkA4Wo4Oypysa5KHuOxFWcT6g6Hos)
 
 I'm a skilled full-stack web developer with a comprehensive understanding of both the front-end and back-end programming languages especially JavaScript, PHP, NodeJs, HTML5, CSS3, Sass, and Bootstrap. I've done numerous projects as a freelancer and many other with professional associations. I have a lot of experience aligning with my knowledge and skills that will help me deliver high quality, user-friendly, and bug-free software.
 
-Skills: HTML5 / CSS3 / JavaScript / PHP / NodeJs / Wordpress
+## Skills & Experience
+. 💻 HTML5 / CSS3 / JavaScript
+. 🕸 PHP / NodeJS
+
 
 - 🔭 I’m currently working on My own startup 
 

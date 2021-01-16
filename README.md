@@ -13,5 +13,7 @@ I'm a skilled full-stack web developer with a comprehensive understanding of bot
 
 
 ## You Can Reach Me Here:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/omarchouman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/omar-chouman-3805a1183//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/omar.chouman.58/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/omar__chouman//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://omarchouman.github.io/)  
+[![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:omar.chouman0@gmail.com) &nbsp;&nbsp;
+[![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/omar-chouman-3805a1183/) &nbsp;&nbsp;
+[![github](https://user-images.githubusercontent.com/25087769/87176037-2c4f1880-c2e2-11ea-8a13-41c90b711b9f.png)](https://omarchouman.github.io/) &nbsp;&nbsp;
 

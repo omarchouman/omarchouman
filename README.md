@@ -1,14 +1,14 @@
 ![Full-Stack Web Developer](https://github.com/omarchouman/omarchouman/blob/main/Github%20Banner.jpg)
 
 ### Hi there 👋, I'm Omar 
-#### Full-Stack Web Developer
+#### Full-Stack Developer
 
 
-I'm a skilled full-stack web developer with a comprehensive understanding of both the front-end and back-end programming languages especially JavaScript, PHP, NodeJs, HTML5, CSS3, Sass, and Bootstrap. I've done numerous projects as a freelancer and many other with professional associations. I have a lot of experience aligning with my knowledge and skills that will help me deliver high quality, user-friendly, and bug-free software.
+I'm a skilled full-stack developer with a comprehensive understanding of both the front-end and back-end programming languages especially JavaScript, Python, NodeJs, HTML5, CSS3, Sass, and Bootstrap. I've done numerous projects as a freelancer and many other with professional associations. I have a lot of experience aligning with my knowledge and skills that will help me deliver high quality, user-friendly, and bug-free software.
 
 ## Skills & Experience
 . 💻 HTML5 / CSS3 / JavaScript <br>
-. 🕸 PHP / NodeJS
+. 🕸 Python / NodeJS
 
 
 

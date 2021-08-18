@@ -7,8 +7,13 @@
 I'm a skilled full-stack developer with a comprehensive understanding of both the front-end and back-end programming languages especially JavaScript, Python, NodeJs, HTML5, CSS3, Sass, and Bootstrap. I've done numerous projects as a freelancer and many other with professional associations. I have a lot of experience aligning with my knowledge and skills that will help me deliver high quality, user-friendly, and bug-free software.
 
 ## Skills & Experience
-. 💻 HTML5 / CSS3 / JavaScript <br>
-. 🕸 Python / NodeJS
+- Front End: HTML, CSS, Bootstrap, Javascript, ReactJs
+- Mobile App: React Native, Expo
+- Back End: NodeJs, Express, PHP, Laravel
+- Databases: SQL, SQLite, MongoDB
+- Server Management: LAMP Stack, Linux
+- Project Management: AGILE Methodology
+- Content Management System: WordPress
 
 
 

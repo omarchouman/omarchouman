@@ -1,4 +1,4 @@
-![Full-Stack Web Developer](https://github.com/omarchouman/omarchouman/blob/main/Github%20Banner.jpg)
+<!-- ![Full-Stack Web Developer](https://github.com/omarchouman/omarchouman/blob/main/Github%20Banner.jpg) -->
 
 ### Hi there 👋, I'm Omar 
 #### Full-Stack Developer

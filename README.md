@@ -22,3 +22,6 @@ I'm a skilled full-stack developer with a comprehensive understanding of both th
 [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/omar-chouman-3805a1183/) &nbsp;&nbsp;
 [![github](https://user-images.githubusercontent.com/25087769/87176037-2c4f1880-c2e2-11ea-8a13-41c90b711b9f.png)](https://omarchouman.github.io/) &nbsp;&nbsp;
 
+<br/><br/>
+[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarchouman)](https://github.com/anuraghazra/github-readme-stats)
+

@@ -93,7 +93,7 @@
   <!-- Title -->
   <text x="100" y="276"
         font-family="Verdana, Geneva, Tahoma, sans-serif" font-size="30"
-        fill="#58a6ff" letter-spacing="2.5">Full-Stack Web Developer</text>
+        fill="#58a6ff" letter-spacing="2.5">Software Engineer</text>
 
   <!-- Separator -->
   <rect x="100" y="298" width="520" height="2" fill="url(#sepGrad)"/>

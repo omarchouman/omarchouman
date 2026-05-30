@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Omar Chouman — Full-Stack Web Developer" width="100%"/>
+<img src="banner.svg" alt="Omar Chouman — Software Engineer" width="100%"/>
 
 # 💫 About Me:
 Welcome to my GitHub! I am Omar, a highly skilled and passionate full-stack developer with a proven track record in delivering top-notch software solutions. With a comprehensive understanding of both front-end and back-end technologies, I specialize in crafting robust applications that seamlessly blend functionality and aesthetics.
